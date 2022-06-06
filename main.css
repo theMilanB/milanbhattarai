@@ -1,8 +1,11 @@
 body{
 	background-color:#141414 ; 
 }
+
 .center{
-	border-radius: 50%;
+    width: 150px;
+    height: 150px;
+	border-radius: 50% ;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
@@ -17,7 +20,7 @@ body{
   	font-size: 300%;
   	font-style: italic;
   	font-weight: bold;
-  	color: cyan;
+  	color: cyan;5v
   }
   .info{
   	color: white;
@@ -60,6 +63,7 @@ a{
 #quotes{
     text-align: center;
     color: white;
-    font-family: cursive;
+    font-family:"Brush Script MT";
+    
     font-size: 20px;
 }
