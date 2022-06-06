@@ -11,16 +11,16 @@ body{
 	display: block;
     margin-top: 160px;
   }
-  header{
-  	text-align: center;
-  	color: white;
-  }
+  
+  
   #text{
   	text-align: center;
   	font-size: 300%;
-  	font-style: italic;
+    font-family: Copperplate, Copperplate Gothic Light, fantasy ;
   	font-weight: bold;
-  	color: cyan;5v
+  	color: cyan;
+
+
   }
   .info{
   	color: white;
@@ -63,7 +63,6 @@ a{
 #quotes{
     text-align: center;
     color: white;
-    font-family:"Brush Script MT";
-    
+    font-family:'Shadows Into Light', cursive; 
     font-size: 20px;
 }
